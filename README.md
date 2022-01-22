@@ -1,6 +1,6 @@
 # Hi there 👋,I am sonalRawal 
 ![image](https://user-images.githubusercontent.com/93571637/150641465-4ac49252-fd6d-4525-930e-b16c9f3ba4cd.png)
-##**More about me:**
+##More about me:
 
 I am a Coder and completed my degree in Electrical Engineering🎓. I am into Problem Solving and Backend Development. I also have know basic react consepts ,HTML and CSS. I am currently learning Backend Development Nodejs,express,mongoDB,JavaScript,AWS S3,caching fundamentals and redis.
 
